@@ -1,4 +1,4 @@
-Link to edition: <a href="http://aylinmalcolm.com/ljs445">https://aylinmalcolm.com/ljs445</a>
+Link to edition: <a href="http://aylinmalcolm.com/ljs445">http://aylinmalcolm.com/ljs445</a>
 
 # About the Project
 
