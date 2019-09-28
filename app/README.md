@@ -14,5 +14,3 @@ This interactive facsimile of LJS 445 is designed to provide a comprehensive int
 # Credits
 
 This edition was created by <a href="http://aylinmalcolm.com">Aylin Malcolm</a>, a Ph.D. candidate in English at the University of Pennsylvania, using the <a href="https://github.com/wtrettien/manicule">Manicule web app</a>. Whitney Trettien offered crucial guidance and assistance at every stage. The source code for Manicule is available for reuse under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>, and can be downloaded here: <a href="https://github.com/wtrettien/manicule">https://github.com/wtrettien/manicule</a>.</p>
-
-<img src="app/images/manicule.png">
